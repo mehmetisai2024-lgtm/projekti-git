@@ -1,3 +1,4 @@
 "Ky eshte fajlli i pare" 
 "Ky eshte nje rresht i ri" 
-"Ky tekst ‰sht‰ n‰ deg‰n test" 
+"Ky tekst â€°shtâ€° nâ€° degâ€°n test" 
+rreshti i katert
