@@ -1,2 +1,4 @@
 "Ky eshte fajlli i pare" 
 "Ky eshte nje rresht i ri" 
+Shtova nje rresht te trete
+shtiva nje rresht te katert
