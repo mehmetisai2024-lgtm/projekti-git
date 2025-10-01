@@ -1,3 +1,2 @@
 "Ky eshte fajlli i pare" 
 "Ky eshte nje rresht i ri" 
-"Ky tekst ‰sht‰ n‰ deg‰n test" 
